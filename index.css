@@ -1,0 +1,24 @@
+:root {
+    --background-color: #ffff00;
+    --text-color:#000;
+    --text-h1: 48px;
+    --color-text-day: #000; 
+    --color-text-night: #000; 
+}
+
+.body{
+    background:var(--background-color);
+    color: var(--text-color);
+}
+
+.section__header{
+    font-size: var(--text-h1);
+    text-align: center;
+}
+
+.div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
