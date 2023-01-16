@@ -1,2 +1,2 @@
-# dayNight
-Button that changes background and font color 
+# Day and Night
+## Button that changes background and font color 
